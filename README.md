@@ -4,5 +4,6 @@
 
 # To run this app :
   * clone this repo
+  * pip install -r requirements.txt
   * cd app.py
   * streamlit run app.py
